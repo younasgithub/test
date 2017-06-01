@@ -1,4 +1,6 @@
 <?php
-echo "hell g";
+echo "hello g";
 echo "q g";
+echo "gg";
+echo "wa g wa";
 ?>
